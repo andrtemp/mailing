@@ -2,50 +2,41 @@
 
 /* @var $this yii\web\View */
 
-$this->title = 'Home';
+$this->title = 'Домашняя страница';
 ?>
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>Congratulations!</h1>
+        <h1>ЦТРиГО г. Сочи</h1>
 
-        <p class="lead">You have successfully created your Yii-powered application.</p>
-
-        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
+        <p class="lead">Центр творческого развития и гуманитарного образования – уникальное учреждение, которое:</p>
     </div>
 
     <div class="body-content">
 
         <div class="row">
             <div class="col-lg-4">
-                <h2>Heading</h2>
+                <h2>Направления деятельности</h2>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
+                <ul>
+                    <li>помогает  дошкольникам стать супер успешными первоклассниками;</li>
+                    <li>сопровождает учащихся начальных классов в их путешествии по Стране наук  и через комплекс предметов учит мыслить объемно и нестандартно;</li>
+                    <li>помогает младшим подросткам почувствовать «вкус» информатики и математики, всерьез и надолго подружиться с гуманитарными науками и оценить возможности психологии;</li>
+                    <li>поддерживает старшеклассников в их стремлении получить фундаментальные знания и применить их на практике.</li>
+                </ul>
 
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/doc/">Yii Documentation &raquo;</a></p>
             </div>
             <div class="col-lg-4">
-                <h2>Heading</h2>
+                <h2>Мероприятия</h2>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
-
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/forum/">Yii Forum &raquo;</a></p>
+                <p>Центр регулярно проводит различные мероприятия - семинары, чтения, курсы повышения квалификации и конкурсы на разную тематику. В 2018-2019 учебном году МБУ ДО Центр творческого развития и гуманитарного образования продолжает свою работу по проведению международных и всероссийских массовых интеллектуальных игровых конкурсов для школьников</p>
             </div>
             <div class="col-lg-4">
-                <h2>Heading</h2>
+                <h2>Больше иформации</h2>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
+                <p>Муниципальное бюджетное учреждение ЦТРиГО имеет собственный веб-сайт, который предоставляет информацию и последние новости о предприятии.</p>
 
-                <p><a class="btn btn-default" href="http://www.yiiframework.com/extensions/">Yii Extensions &raquo;</a></p>
+                <p><a class="btn btn-default" href="https://www.ctrigo.ru/">Сайт &raquo;</a></p>
             </div>
         </div>
 
